@@ -123,16 +123,6 @@ form.idealforms.adaptive .ideal-file-upload{width:30%}
 /* scaffolding */
 /* ----------- */
 
-html {
-  overflow-y: scroll;
-  *overflow-x: hidden;
-}
-
-.container {
-  max-width: 700px;
-  margin: 0 auto;
-  text-align: center;
-}
 
 .tt-dropdown-menu,
 .gist {
