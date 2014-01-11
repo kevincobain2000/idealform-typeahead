@@ -129,15 +129,6 @@ form.idealforms.adaptive .ideal-file-upload{width:30%}
   text-align: left;
 }
 
-/* base styles */
-/* ----------- */
-
-html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  line-height: 1.2;
-  color: #333;
-}
 
 .title,
 .example-name {
@@ -272,12 +263,5 @@ p {
 .example-arabic .tt-dropdown-menu {
   text-align: right;
 }
-
-
-
-
-
-
-
 
 
